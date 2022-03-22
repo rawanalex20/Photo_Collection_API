@@ -1,1 +1,1 @@
--
+An API for a photo-collection site. It keep track of users, venues,andphotos of those venues.
